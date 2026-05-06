@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /automation/
+Disallow: /.github/
+
+Sitemap: https://your-domain.com/sitemap.xml
+
+Crawl-delay: 1
